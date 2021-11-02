@@ -1,5 +1,7 @@
 HTML and CSS - A Thanksgiving Webpage
+
 Tom Riherd • 11/1/2021 40 points Due 11/2/2021
+
 If you get stuck, refer to the sample code with notes Adobe Acrobat file posted in the Lincoln Gettysburg assignment.  Should be closer to finishing than starting by the end of class.
 
 
@@ -47,11 +49,20 @@ Create a footer section and insert the tech_address.png file as aligned right, h
 Add one of the Peanuts cartoon images and limit its' height to 130 also.
 Add your own copyright to the footer section.
 
-Resources: https://plimoth.org/for-students/homework-help/thanksgiving;   
+Resources: 
+
+https://plimoth.org/for-students/homework-help/thanksgiving;   
+
 https://www.smithsonianmag.com/history/thanksgiving-myth-and-what-we-should-be-teaching-kids-180973655/;   
 
-Pictures: https://drive.google.com/file/d/1xeQdrKxvgKMNs8DdAhEmyAfV9qwVhZpd/view?usp=drive_web&authuser=0;   
+Pictures: 
+
+https://drive.google.com/file/d/1xeQdrKxvgKMNs8DdAhEmyAfV9qwVhZpd/view?usp=drive_web&authuser=0;   
+
 https://drive.google.com/file/d/1KWnMymb_VuLNA_XXMe8H2LeCDy9-Wmdp/view?usp=drive_web&authuser=0;   
+
 https://drive.google.com/file/d/1dJIEZHGphKYJC9V50a4X7ghomQmCqoL_/view?usp=drive_web&authuser=0;   
+
 https://drive.google.com/file/d/1aISRIQ2hCmJTOBRF6Q2Hv2BOamA_b33w/view?usp=drive_web&authuser=0;   
+
 https://drive.google.com/file/d/1fXPnbBdBClGHr33ZbyvUUv3BHeiOMslM/view?usp=drive_web&authuser=0;   
